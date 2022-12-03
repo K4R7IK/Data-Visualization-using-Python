@@ -6,3 +6,9 @@ Use the following command for installing the libs.
 ```
 pip install -r requirements.txt
 ```
+
+## Usage 
+After installing the requirements, run the following
+```
+python main.py
+```
