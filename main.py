@@ -220,4 +220,8 @@ def mainMenu():
     elif(opt == 7):
         exit()
 #----------------------------------------MAIN PROGRAM------------------------------------------------------
-mainMenu()
+if __name__ == "__main__":
+    mainMenu()
+else:
+    exit()
+    
