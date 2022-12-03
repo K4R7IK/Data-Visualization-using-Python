@@ -1,0 +1,4 @@
+inquirer==3.0.0
+matplotlib==3.6.2
+pandas==1.5.2
+seaborn==0.12.1
